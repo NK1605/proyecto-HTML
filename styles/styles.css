@@ -42,22 +42,22 @@
     .title {
         background-color:cadetblue;
         text-align: center;
-        margin-right: 10px;
+        margin: 5px;
     }
     .body first-child {
         align-content: right;
         text-align: right;
         align-items: right;
-        margin-right: 10px;
+        margin: 5px;
     }
     .body {
         background-color:azure;
         align-content: center;
-        margin-right: 10px;
+        margin: 5px;
     }
     .table {
         background-color:azure;
-        margin-right: 10px;
+        margin: 5px;
         text-align: center;
         align-content: center
     }
